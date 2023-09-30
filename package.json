@@ -1,0 +1,12 @@
+{
+  "name": "react-linear-model-pkl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "python server/app.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
